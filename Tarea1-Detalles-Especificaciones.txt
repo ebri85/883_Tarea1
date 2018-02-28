@@ -17,4 +17,12 @@ Características principales del protocolo.
 Diferencias con respecto a IPv4 e interoperabilidad.
 Explicación de su direccionamiento y nomenclatura.
 Tipos de direcciones.
-Encabezado del protocolo.
+Encabezado del protocolo
+
+
+
+Bibliografia
+
+http://redesaccesomichelle.blogspot.com/2011/07/scpc-single-channel-per-carrier.html
+http://www.mailxmail.com/curso-introduccion-comunicaciones-satelite/sistema-scpc
+http://internet-access-guide.com/vsat-defined-what-is-it-and-how-does-it-work/
