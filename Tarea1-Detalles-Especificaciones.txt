@@ -1,0 +1,20 @@
+Tarea 1 Telematica y Redes Investigacion de Enlaces satelitales
+
+SCPC y VSAT
+
+
+➢ Deberá realizar la comparación detallada de los siguientes aspectos:
+	Características.
+		➢ Similitudes.
+		➢ Ventajas y desventajas de cada uno sobre el otro.
+		➢ Particularidades.
+		
+		
+		
+Desarrollo
+Historia y justificación de su creación.
+Características principales del protocolo.
+Diferencias con respecto a IPv4 e interoperabilidad.
+Explicación de su direccionamiento y nomenclatura.
+Tipos de direcciones.
+Encabezado del protocolo.
